@@ -4,7 +4,7 @@
 - ဒီထဲမှာ အဖွဲ့လိုက် ဆွေးနွေး တိုင်ပင်ရင်း ရေးကြတာမျိုးပါ မသိတာလေးတွေလည်း သိခွင့်ရမယ် အခြားသူတွေဆီက လည်း သိပြီးသားကိုမှ မတူညီတဲ့ အမြင်ကို သိရမယ်
 - အဓိကကတော့ Project တစ်ခုမှာ အဖွဲ့နဲ့ အလုပ်လုပ်တတ်ဖို့ ဒီ Repository ကို ပြုလုပ်ရတဲ့ ရည်ရွယ်ချက်ပဲ ဖြစ်ပါတယ်
 
-#### 2. [Point Of Sale]
+#### 2. [Point Of Sale (2024/04/01 to 2024/04/30)](https://github.com/sannlynnhtun-coding/Point-Of-Sale)
 - [Next.js](https://github.com/sannlynnhtun-coding/pos_frontend_next)
 - [React.js with TypeScript](https://github.com/sannlynnhtun-coding/pos_frontend_react_ts)
 - [React.js](https://github.com/sannlynnhtun-coding/pos_frontend_react)
