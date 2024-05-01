@@ -7,14 +7,17 @@
 ![Alt text](https://github.com/sannlynnhtun-coding/one-project-one-month/blob/main/data/one-project-one-month.png)
 
 #### 2. [Point Of Sale (2024/04/01 to 2024/04/30)](https://github.com/sannlynnhtun-coding/Point-Of-Sale)
+Frontend
+- [Flutter](https://github.com/sannlynnhtun-coding/pos_frontend_flutter)
 - [Next.js](https://github.com/sannlynnhtun-coding/pos_frontend_next)
 - [React.js with TypeScript](https://github.com/sannlynnhtun-coding/pos_frontend_react_ts)
 - [React.js](https://github.com/sannlynnhtun-coding/pos_frontend_react)
 - [Vue.js](https://github.com/sannlynnhtun-coding/pos_frontend_vue)
-- [Express.js](https://github.com/sannlynnhtun-coding/pos_backend_express)
 - [Laravel](https://github.com/sannlynnhtun-coding/pos_backend_laravel)
-- [Flutter](https://github.com/sannlynnhtun-coding/pos_frontend_flutter)
+
+Backend
 - [C#](https://github.com/sannlynnhtun-coding/pos_backend_csharp)
+- [Next.js](https://github.com/sannlynnhtun-coding/pos_frontend_next)
 
 #### 1. [Hospital Management System (2024/03/01 to 2024/03/31)](https://github.com/sannlynnhtun-coding/Hospital-Management-System)
 - [Frontend - React, Vite, shadcn/ui](https://github.com/sannlynnhtun-coding/hospital_management_system_frontend)
